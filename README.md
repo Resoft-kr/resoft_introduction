@@ -1,4 +1,11 @@
 # resoft_introduction
+리소프트의 개발정보를 담은 문서 입니다.
+
+## 리소프트 앱 개발정보
+
+* **에코스** - ESG 실천 앱
+
+
 
 ## 리소프트 협업툴
 * [리소프트](http://resoft.kr/admin/project) - 리소프트 협업툴
